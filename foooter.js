@@ -1,4 +1,8 @@
 'use strict'
+const React = require('react')
+const GithubLogo = require('../symbols/githubLogo.svg')
+
+require('./footer.scss')
 
 class Footer extends React.Component {
     render() {
