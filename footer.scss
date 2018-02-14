@@ -1,13 +1,8 @@
-footer {
-  background-color: #445868;
-  bottom: 0;
-
-  .links-container {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: auto;
-    height: 100%;
-    width: 20rem;
-  }
+.links-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  height: 100%;
+  width: 20rem;
 }
